@@ -1,0 +1,8 @@
+name: telnet
+title: InSpec Profile for Telnet
+maintainer: JJW
+copyright: JJW
+copyright_email: jwillemsen@xebia.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile for telnet
+version: 0.1.0
